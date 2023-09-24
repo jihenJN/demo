@@ -11,7 +11,7 @@ public class DemoController {
 		@GetMapping("/hello")  
 		private String getHelloMessage()   
 		{  
-			int x =0;
+			int x =10;
 			return "hello devops :)" ;  
 		}  
 }
