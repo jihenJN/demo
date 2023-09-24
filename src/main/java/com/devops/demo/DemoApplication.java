@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		int x = 25 ;
-		int y = 77 ; 
+		int y = 26 ; 
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
