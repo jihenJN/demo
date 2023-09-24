@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		int x = 25 ;
+		int x = 27 ;
 		int y = 26 ; 
 		SpringApplication.run(DemoApplication.class, args);
 	}
